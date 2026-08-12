@@ -1,0 +1,9 @@
+[submodule "TCMT-M-client"]
+	path = TCMT-M-client
+	url = https://github.com/dongge0210/TCMT-M-client.git
+[submodule "TCMT-M-server"]
+	path = TCMT-M-server
+	url = https://github.com/dongge0210/TCMT-M-Server.git
+[submodule "TCMT-M-viewer"]
+	path = TCMT-M-viewer
+	url = https://github.com/dongge0210/TCMT-M-Viewer.git
