@@ -16,7 +16,5 @@ git clone --recurse-submodules <本仓库地址>
 
 ## 说明
 
-- `TCMT-M-viewer` 的 GitHub 仓库尚待创建并推送，创建完成后
-  `.gitmodules` 中的 URL 即可直接使用。
-- `TCMT-M-client`（dev 分支）和 `TCMT-M-server`（main 分支）各有 1 个
-  未推送的提交，需先推送到各自远端，子模块 pin 的 commit 才能在远端取到。
+- 三个子模块仓库均已创建并推送（client 用 dev 分支，server/viewer 用 main）。
+
