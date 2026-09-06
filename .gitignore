@@ -1,2 +1,3 @@
 # CodeGraph index (local knowledge graph cache)
 .codegraph/
+.DS_Store
